@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vegla_Grupi26/vegla_Grupi26.vcxproj" />
+</Solution>
